@@ -1,15 +1,28 @@
-*.iml
-.gradle
+# Android & build
+/build/
+/*.iml
+.gradle/
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+
+# Firebase config (do NOT commit)
+google-services.json
+GoogleService-Info.plist
+
+# Keystore & signing
+*.jks
+key.properties
+
+# Environment / secrets
+.env
+*.env
+
+# Local DBs / caches
+*.db
+*.sqlite
+*.bak
+
+# IDE
+/.idea/
+/.vscode/
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+Thumbs.db
