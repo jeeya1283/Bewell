@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name" translatable="false">BeWell</string>
+    <string name="forgot_password" translatable="false">Forgot Password?</string>
+
+    <string name="underweightCategory" translatable="false">Underweight Category</string>
+    <string name="oatmealName" translatable="false">Oatmeal Peanut Porridge</string>
+    <string name="oatmealDuration" translatable="false">10 mins</string>
+    <string name="oatmealIngredients" translatable="false">Calories – 472\n
+1/2 cup instant oats\n
+1 cup full-fat milk\n
+1 banana, sliced\n
+2 tablespoons peanut butter\n
+A handful of raisins, soaked\n
+1 tablespoon honey</string>
+    <string name="oatmealDesc" translatable="false">Bring the milk to a boil and add the instant oats.\n
+Simmer and cook until the oats become soft and the milk thickens.\n
+Remove from the flame and transfer to a bowl.\n
+Add honey and peanut butter. Stir well.\n
+Top it with banana slices and raisins.</string>
+    <string name="sandwichName" translatable="false">Peanut Butter &amp; Jam Sandwich</string>
+    <string name="sandwichDuration" translatable="false">5 mins</string>
+    <string name="sandwichIngredients" translatable="false">Calories – 382\n
+whole bread slices\n
+2 tablespoons peanut butter\n
+1 tablespoon jam of your choice</string>
+    <string name="sandwichDesc" translatable="false">Spread the peanut butter evenly on one bread slice.\n
+Spread the jam on the other slice of bread.\n
+Club them together and take a generous bite!</string>
+    <string name="tofuName" translatable="false">Tofu Scramble</string>
+    <string name="tofuDuration" translatable="false">10 mins</string>
+    <string name="tofuIngredients" translatable="false">Calories – 293\n
+1 cup grated tofu\n
+1 tomato, chopped\n
+½ medium-sized onion, chopped\n
+1 seeded green chili, chopped\n
+2 dollops of butter\n
+Salt to taste\n
+¼ teaspoon pepper\n
+Cilantro for garnish</string>
+    <string name="tofuDesc" translatable="false">Add the butter to a pan.\n
+Toss in the onion and tomato.\n
+Cook for 5-6 minutes.\n
+Add in the grated tofu, green chilies, salt, and pepper.\n
+Stir and cook for 5 minutes.\n
+Cover and cook for 2 minutes more.\n
+Garnish with cilantro before serving.</string>
+    <string name="avacadoName" translatable="false">Avocado And Egg Sandwich</string>
+    <string name="avacadoDuration" translatable="false">5 mins</string>
+    <string name="avacadoIngredients" translatable="false">Calories – 469\n
+2 slices of whole wheat bread\n
+½ avocado, sliced\n
+2 tablespoons cottage cheese, mashed\n
+2 eggs\n
+A handful of pepita\n
+Salt to taste\n
+A pinch of pepper</string>
+    <string name="avacadoDesc" translatable="false">Boil the eggs.\n
+Toast the bread and spread mashed cottage cheese.\n
+Add avocado slices on top.\n
+Finally, place the boiled eggs on top.\n
+Sprinkle salt, pepper, and pepita.</string>
+    <string name="shakeName" translatable="false">Vegan Protein Shake</string>
+    <string name="shakeDuration" translatable="false">10 mins</string>
+    <string name="shakeIngredients" translatable="false">Calories – 529\n
+2 scoops vegan protein powder\n
+2 tablespoons almond powder\n
+1 tablespoon cashew powder\n
+2 cups soy milk</string>
+    <string name="shakeDesc" translatable="false">Toss all ingredients into a blender.\n
+Blend well and transfer it to two glasses.</string>
+
+    <string name="normalCategory" translatable="false">normal Category</string>
+    <string name="tomatoName" translatable="false">Tomato &amp; Burrata Sandwich</string>
+    <string name="tomatoDuration" translatable="false">10 mins</string>
+    <string name="tomatoIngredients" translatable="false">Calories – 365\n
+2 teaspoons balsamic vinegar\n
+1 ½ teaspoons extra-virgin olive oil\n
+⅛ teaspoon ground pepper\n
+Pinch of salt\n
+⅔ cup lightly packed arugula\n
+1 teaspoon chopped fresh basil\n
+1 slice heirloom tomato, halved\n
+2 ounces burrata, halved\n
+2 slices ciabatta, toasted</string>
+    <string name="tomatoDesc" translatable="false">Whisk vinegar, oil, pepper and salt together in a medium bowl.\n
+Add arugula and basil; toss to coat.\n
+Layer tomato, burrata and the arugula mixture on 1 slice of ciabatta.\n
+Drizzle with any remaining vinegar from the bowl; top with the other slice of ciabatta.\n
+Cut in half before serving.</string>
+    <string name="wrapName" translatable="false">Cucumber &amp; Avocado Wrap</string>
+    <string name="wrapDuration" translatable="false">5 mins</string>
+    <string name="wrapIngredients" translatable="false">Calories – 395\n
+2 tablespoons mayonnaise\n
+2 teaspoons rice vinegar\n
+1 teaspoon Sriracha or more to taste\n
+¼ teaspoon garlic powder\n
+1 8-inch whole-wheat tortilla\n
+¼ large avocado, sliced\n
+½ cup thinly sliced and quartered cucumber\n
+⅓ cup coarsely chopped arugula\n
+¼ cup chopped red bell pepper</string>
+    <string name="wrapDesc" translatable="false">Stir mayonnaise, vinegar, Sriracha and garlic powder together in a small bowl.\n
+Lay tortilla on a clean work surface.\n
+Spread the mayonnaise mixture on the tortilla.\n
+Layer avocado slices on the lower third of the tortilla.\n
+Top the avocado with cucumber, arugula and bell pepper; roll up. Cut in half before serving.</string>
+    <string name="toastName" translatable="false">Ricotta-Tomato Toast</string>
+    <string name="toastDuration" translatable="false">10 mins</string>
+    <string name="toastIngredients" translatable="false">Calories – 259\n
+¾ cup whole-milk ricotta cheese\n
+½ cup coarsely chopped fresh basil, plus more for garnish\n
+¼ cup chopped fresh chives, plus more for garnish\n
+2 tablespoons extra-virgin olive oil plus 1 1/2 teaspoons, divided\n
+1 teaspoon grated lemon zest\n
+1 tablespoon lemon juice</string>
+    <string name="toastDesc" translatable="false">Combine ricotta, basil, chives, 2 tablespoons oil, lemon zest, lemon juice, salt and pepper in a food processor;\n
+process until smooth, about 1 minute.\n
+Spread the mixture evenly over toast slices.\n
+Top with tomatoes; drizzle with the remaining 1 1/2 teaspoons oil.\n
+Garnish with additional basil and chives before serving, if desired.</string>
+    <string name="smoothieName" translatable="false">Fruit &amp; Yogurt Smoothie</string>
+    <string name="smoothieDuration" translatable="false">5 mins</string>
+    <string name="smoothieIngredients" translatable="false">Calories – 279\n
+3/4 cup nonfat plain yogurt\n
+1/2 cup 100% pure fruit juice\n
+1 1/2 cups (6 1/2 ounces) frozen fruit, such as blueberries, raspberries, pineapple or peaches</string>
+    <string name="smoothieDesc" translatable="false">Puree yogurt with juice in a blender until smooth.\n
+With the motor running, add fruit through the hole in the lid and continue to puree until smooth.</string>
+
+    <string name="obeseCategory" translatable="false">obese Category</string>
+    <string name="cheelaName" translatable="false">Oats and Matar Cheela</string>
+    <string name="cheelaDuration" translatable="false">20 mins</string>
+    <string name="cheelaIngredients" translatable="false">Calories – 365\n
+1/2 Cup rolled oats\n
+1/2 cup peas\n
+1/2 inch Ginger\n
+2-3 Garlic cloves\n
+1-2 Green chillies\n
+Desi ghee (as per need)</string>
+    <string name="cheelaDesc" translatable="false">1.Overnight soak the rolled oats.\n
+2.Boil the peas for a minute or two.\n
+3.In a chutney grinder, add boiled peas, ginger, garlic, green chilli, ajwain, hing and salt.\n
+4.Grind everything into a paste.\n
+5.On medium to low flame, cook each side well till it turns golden brown in colour.\n
+6.Add some ghee on the edges if needed.</string>
+    <string name="limeName" translatable="false">Coconut Lime Quinoa Salad</string>
+    <string name="limeDuration" translatable="false">15 mins</string>
+    <string name="limeIngredients" translatable="false">Calories – 295\n
+1 Cup uncooked quinoa\n
+2 cups water\n
+1/2 cup red onion, sliced3 cups cucumber (diced)\n
+1 1/2 cup purple cabbage\n
+1/2 cup avocado (ripened and diced)</string>
+    <string name="limeDesc" translatable="false">Boil the quinoa in water according to package directions.\n
+This should take about 12-15 minutes, and all water should be absorbed.\n
+Remove it from the heat, fluff with a fork and allow it to cool.\n
+Whisk together the dressing in a small bowl and set aside.</string>
+    <string name="beanName" translatable="false">Black Bean Soup</string>
+    <string name="beanDuration" translatable="false">10 mins</string>
+    <string name="beanIngredients" translatable="false">Calories – 259\n
+2 tablespoons olive oil\n
+1 cup diced onion (1/2 large onion)\n
+3/4 cup diced carrots (1 large carrot)\n
+1 tablespoon minced garlic (3 cloves)\n
+1 teaspoon ground cumin</string>
+    <string name="beanDesc" translatable="false">Heat the olive oil in a large Dutch oven or deep pot over medium heat,\n
+and then add the onions and carrot.\n
+Cook, stirring often, until they have softened slightly and smell sweet, about 5 minutes.</string>
+    <string name="nicoiseName" translatable="false">Nicoise Salad</string>
+    <string name="nicoiseDuration" translatable="false">5 mins</string>
+    <string name="nicoiseIngredients" translatable="false">Calories – 279\n
+16 oz. grilled tuna steak or canned tuna (2-3 cans);\n
+4 eggs, hard-boiled, peeled, and sliced;\n
+2 Boston lettuce leaves, washed;\n
+3 small ripe tomatoes, cored and cut into eighths</string>
+    <string name="nicoiseDesc" translatable="false">In a bowl, combine all the ingredients for the vinaigrette.\n
+Whisk well and season to taste.\n
+Arrange all the ingredients for the salad in a bowl.</string>
+
+</resources>
